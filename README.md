@@ -17,6 +17,7 @@
 ## 常见功能
 1. [防抖&节流](https://www.jianshu.com/p/716b3e2fc84b)
 2. [深拷贝](https://www.jianshu.com/p/aee87a160261)
+3. [常见排序](https://www.jianshu.com/p/3e9d2297d7c2)
 
 ## 其他
 1. [输入url到页面展示之间发生了什么](https://www.jianshu.com/p/8cb0b3373701)
